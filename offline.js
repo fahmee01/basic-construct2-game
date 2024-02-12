@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1707747018,
+	"version": 1707748476,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -71,6 +71,8 @@
 		"media/smb_bowserfalls.ogg",
 		"media/smb_pipe.m4a",
 		"media/smb_pipe.ogg",
+		"media/smb_gameover.m4a",
+		"media/smb_gameover.ogg",
 		"media/thatched villagers.m4a",
 		"media/thatched villagers.ogg",
 		"icon-16.png",
